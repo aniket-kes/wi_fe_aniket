@@ -1,0 +1,15 @@
+.list-item{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+    margin: 1rem;
+}
+
+.list-item-content{
+    width: 80%;
+    background: white;
+    display: flex;
+    
+}

@@ -1,0 +1,16 @@
+.item-content{
+    display: flex;
+    flex-direction: column;
+    width: auto;
+    justify-content: space-between;
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+    /* margin: 1rem; */
+
+}
+
+.item-content img{
+    width: 110px;
+    height: 110px;
+    border-radius: 8px;
+}
